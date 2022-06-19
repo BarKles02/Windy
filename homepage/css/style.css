@@ -1,0 +1,58 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+::after,
+::before {
+    box-sizing: inherit;
+}
+
+.body {
+    font-family: Arial;
+    background-color: aliceblue;
+    color: #222;
+}
+
+.naglowek {
+    text-align: center;
+
+}
+
+.naglowek2 {
+    text-align: center;
+}
+
+.zainteresowania {
+    text-align: center;
+    background-color: rgb(180, 123, 234);
+}
+
+.dupa {
+
+    background-color: rgb(180, 123, 234);
+}
+
+.akapit2 {
+    color: #222;
+}
+
+.ciemnyMotyw {
+    color: white;
+    background-color: #202124;
+}
+
+.przycisk {
+    display: block;
+    margin: 0 auto;
+}
+
+.shrek {
+    width: 200px;
+    display: block;
+    margin: 0 auto;
+}
+
+.chleb {
+    width: 200px;
+}
