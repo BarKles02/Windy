@@ -1,0 +1,26 @@
+.html {
+    box-sizing: border-box;
+}
+
+*,
+::after,
+::before {
+    box-sizing: inherit;
+}
+
+.body {
+    font-family: 'Montserrat', sans-serif;
+    background-image: linear-gradient(to right bottom, #051937, #004a71, #0083a4, #00bec7, #5afbd9);
+}
+
+.button {
+    display: block;
+    margin: 0 auto;
+}
+
+
+.body--darkMode{
+    background-color: #222;
+    background-image:none;
+}
+
